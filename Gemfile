@@ -7,6 +7,7 @@ gem "lotusrb",       "0.4.1"
 gem "lotus-model",   "~> 0.4"
 
 gem "pg"
+gem "slim"
 
 group :test do
   gem "rspec"
