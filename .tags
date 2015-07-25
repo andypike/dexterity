@@ -1,0 +1,6 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+call	/Users/andypike/code/personal/dexterity/apps/web/controllers/home/index.rb	/^    def call(_)$/;"	f	language:Ruby	class:Web.Index
+Index	/Users/andypike/code/personal/dexterity/apps/web/controllers/home/index.rb	/^  class Index$/;"	c	language:Ruby	class:Web
+Index	/Users/andypike/code/personal/dexterity/apps/web/views/home/index.rb	/^  class Index$/;"	c	language:Ruby	class:Web
+Web	/Users/andypike/code/personal/dexterity/apps/web/controllers/home/index.rb	/^module Web::Controllers::Home$/;"	m	language:Ruby
+Web	/Users/andypike/code/personal/dexterity/apps/web/views/home/index.rb	/^module Web::Views::Home$/;"	m	language:Ruby
