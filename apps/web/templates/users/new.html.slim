@@ -1,0 +1,13 @@
+h1 Add a user
+
+== form_for :user, routes.users_path do
+  - div class: 'input' do
+    = label :name
+    = text_field :name
+
+  - div class: 'input' do
+    = label :email
+    = text_field :email
+
+  - div class: 'controls' do
+    = submit "Save"
