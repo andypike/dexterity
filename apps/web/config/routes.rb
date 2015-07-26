@@ -1,1 +1,1 @@
-get "/", :to => "home#index"
+get "/", :to => "home#index", :as => :root
