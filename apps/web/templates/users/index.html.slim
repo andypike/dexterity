@@ -1,5 +1,8 @@
 h1 Users
 
 .users
-  p.user Andy
-  p.user Charlie
+  - if users.any?
+    - users.each do |user|
+      p.user= user.name
+  - else
+    p There are no users
